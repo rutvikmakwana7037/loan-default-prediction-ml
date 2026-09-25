@@ -2442,7 +2442,6 @@ def main():
                 <div class="lg-brand-logo">🛡️</div>
                 <div>
                     <div class="lg-brand-title">Riskora AI</div>
-                    <div class="lg-brand-subtitle">9-Model Credit Risk & Underwriting Benchmark Platform</div>
                 </div>
             </div>
             <div class="lg-status-pill {status_class}">
