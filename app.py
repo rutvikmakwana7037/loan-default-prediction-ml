@@ -16,7 +16,7 @@ from sklearn.metrics import (
 # 1. PAGE CONFIG & CONSTANTS
 # ============================================================
 st.set_page_config(
-    page_title="Riskora AI | 9-Model Credit Risk & Underwriting Benchmark",
+    page_title="Riskora AI",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded",
